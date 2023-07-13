@@ -14,3 +14,7 @@ To do list:
 - [ ] dropout
 - [ ] complete pipeline
 - [ ] write blogs and add appropriate documentation 
+
+
+PS:
+I have used chatgpt to generate docstrings for all the functions to make it more clear :))
