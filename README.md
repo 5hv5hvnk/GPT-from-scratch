@@ -2,7 +2,7 @@
 Goal is to implement a GPT architecture from scratch
 
 To do list:
-- [ ] bigram
+- [x] bigram
 - [ ] embedding
 - [ ] positional encoding
 - [ ] self attention
