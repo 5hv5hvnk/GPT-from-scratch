@@ -2,8 +2,8 @@
 Goal is to implement a GPT architecture from scratch
 
 To do list:
-- [x] [bigram](/julia/bigram.jl)
-- [x] [embedding](/julia/embeddings.jl)
+- [x] [bigram](/bigram.jl)
+- [x] [embedding](/embeddings.jl)
 - [ ] positional encoding
 - [ ] self attention
 - [ ] multi head attention
